@@ -216,7 +216,9 @@ ul, li{
     font-size: 20px;
 }
 .checkbox{
-    font-size:25px;
+    font-size:30px;
+    margin: 4px;
+    margin-bottom: 4px;
     background-color: #FFE4E1;
     border-radius:4px;
     font-weight: normal;
